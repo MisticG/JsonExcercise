@@ -1,0 +1,29 @@
+{
+    "students": [
+        {
+            "studentName": "Maria",
+            "studentCv": "Grym",
+            "studentMail": "maria.bra@mail.se"
+        },
+        {
+            "studentName": "Karl",
+            "studentCv": "Bra",
+            "studentMail": "karl.grym@mail.se"
+        },
+        {
+            "studentName": "Henrik",
+            "studentCv": "Bamba",
+            "studentMail": "henrik@mail.se"
+        },
+        {
+            "studentName": "Anna",
+            "studentCv": "Jippi",
+            "studentMail": "anna@mail.se"
+        },
+        {
+            "studentName": "Maja",
+            "studentCv": "Jaoo",
+            "studentMail": "maja@mail.se"
+        }    
+    ]
+}
